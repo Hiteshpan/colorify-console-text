@@ -15,8 +15,8 @@
     "prepare": "npm run build"
   },
   "keywords": [
-    "console log colors",
-    "colorify logs"
+    "console text colors",
+    "colorify text"
   ],
   "repository": {
     "type": "git",
