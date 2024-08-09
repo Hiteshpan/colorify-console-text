@@ -1,4 +1,4 @@
-# colorify-console-text
+# Colorify-Console-Text
 An npm package to differently color console texts according to their response  behaviour
 
 
